@@ -51,19 +51,6 @@ I enjoy learning new technologies, building interesting projects, and continuous
 
 ---
 
-# 🚀 Projects
-
-### 🎵 Music System for Mental Wellness with Face Recognition
-An AI app that reads your face in real time to understand your mood, then plays music to help reduce stress. Built with Computer Vision and emotion analysis, with a smooth, fast web interface.
-
-### 🕵️ AI-Based Online Monitoring System
-An automatic online exam proctoring tool using Computer Vision and Machine Learning. It spots unusual behavior in real time and sends alerts to keep remote exams fair.
-
-### 📚 Machine Learning RAG Assistant
-A Retrieval-Augmented Generation (RAG) assistant that answers questions from your own documents. It uses a vector database, document chunking, embeddings and semantic search, so answers stay accurate and hallucinations are reduced.
-
----
-
 # 🏆 Achievements
 
 - 🥇 **1st Place** – Logo Design Competition, Bahubali College of Engineering
@@ -79,14 +66,6 @@ A Retrieval-Augmented Generation (RAG) assistant that answers questions from you
 - 📈 **Power BI Micro Course** – SkillCourse
 - 🤖 **AI Fluency: Framework & Foundations** – Anthropic Claude Academy
 - 💡 **Freedom With AI Masterclass** – Freedom With AI
-
----
-
-# 🎓 Education
-
-- **B.E. in Artificial Intelligence & Machine Learning** – Bahubali College of Engineering, Shravanabelagola (Expected 2027)
-- **Pre-University Course (PUC)** – Seshadripuram Pre-University College, Tumakuru (2023)
-- **SSLC** – Kalidasa High School, Tumakuru (2021)
 
 ---
 
